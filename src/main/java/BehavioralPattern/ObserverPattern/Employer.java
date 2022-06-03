@@ -1,4 +1,4 @@
-package org.dp.observer_pattern;
+package BehavioralPattern.ObserverPattern;
 
 // Observer 패턴에서의 Subject 인터페이스
 public interface Employer {

@@ -1,9 +1,9 @@
-package org.dp.observer_pattern;
+package BehavioralPattern.ObserverPattern;
 
-import org.dp.observer_pattern.Employer;
-import org.dp.observer_pattern.EmployeeClass.*;
 
-public class Main {
+import BehavioralPattern.ObserverPattern.EmployeeClass.*;
+
+public class ObserverMain {
     public static void main(String[] args) {
         Employer master = new EmployerClass();
 
