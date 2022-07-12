@@ -3,6 +3,7 @@
 
 ### 목적에 따른 디자인 패턴 유형
 
+
 #### - 생성 패턴
   - 객체 생성에 관련된 패턴
   - 생성하는 패턴 인스턴스나 클래스를 생성하고, 참조하는 과정을 정의하는 패턴
@@ -22,4 +23,4 @@
 
 
 
-참고 링크) https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
+패턴 유형 설명 참고 링크) https://gmlwjd9405.github.io/2018/07/06/design-pattern.html
