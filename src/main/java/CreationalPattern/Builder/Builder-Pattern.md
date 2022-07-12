@@ -1,5 +1,10 @@
 # Builder Pattern - 빌더 패턴
 
+- 빌더 패턴의 구조
+ 
+![img.png](img.png)
+
+이미지 출처) https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%8D%94_%ED%8C%A8%ED%84%B4
 
 - 요구 사항에 맞게 필요한 데이터만 이용하여 유용한 데이터 생성 가능
 - 유연성을 확보 가능

@@ -1,5 +1,13 @@
 # Bridge Pattern - 브릿지 패턴
 
+- 브리지 패턴 다이어그램
+
+![img.png](img.png)
+
+이미지 출처) https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4
+
+
+
 - 객체의 확장성을 향상하기 위한 패턴, 객체에서 동작을 처리하는 구현부와 확장을 위한 추상부를 분리한다.
 
 

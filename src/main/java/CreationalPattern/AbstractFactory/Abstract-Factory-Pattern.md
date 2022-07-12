@@ -1,5 +1,13 @@
 # Abstract Factory (추상 팩토리) 패턴
 
+- 추상 팩토리 패턴의 UML 클래스 및 시퀀스 다이어그램
+
+![img.png](img.png)
+
+이미지 출처) https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%8C%A8%ED%84%B4
+
+
+
 - 팩토리메서드 패턴과 비슷하나 추상 팩토리 패턴에서는 
 팩토리 클래스에서 서브 클래스를 생성하는 데 if-else 문을 사용하지 않는다.
 
