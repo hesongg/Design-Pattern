@@ -1,6 +1,9 @@
 package StructuralPattern.Proxy;
 
 public class ServiceProxy implements ServiceInterface{
+
+    private ServiceInterface service;
+
     @Override
     public void doService() {
         //프록시 객체로 서비스 수행시간을 계산하고 로그를 남기는 기능을 구현한다.
@@ -8,7 +11,10 @@ public class ServiceProxy implements ServiceInterface{
 
         long startTime = System.currentTimeMillis();
 
-        ServiceInterface service = new Service();
+        if(service == null){
+            service = new Service();
+        }
+
         service.doService();
 
         long endTime = System.currentTimeMillis();
